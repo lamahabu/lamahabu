@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lama</h1>
 <h3 align="center">Computer systems engineering student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamahabu&label=Profile%20views&color=0e75b6&style=flat" alt="lamahabu" /> </p>
+
 - 🔭 I’m currently working on [small restaurant system](https://github.com/lamahabu/Restaurant-system.git)
 
 - 🌱 I’m currently learning **c#, .NET framework**
@@ -20,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamahabu&show_icons=true&locale=en&layout=compact" alt="lamahabu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamahabu&show_icons=true&locale=en" alt="lamahabu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamahabu&" alt="lamahabu" /></p>
