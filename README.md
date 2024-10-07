@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamahabu&label=Profile%20views&color=0e75b6&style=flat" alt="lamahabu" /> </p>
 
-- 🔭 I’m currently working on [small restaurant system](https://github.com/lamahabu/Restaurant-system.git)
+- 🔭 I’m currently working on [My Graduation project](https://github.com/lamahabu/Restaurant-system.git)
 
 - 🌱 I’m currently learning **c#, .NET framework**
 
