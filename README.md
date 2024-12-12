@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on My Graduation project as an UI/UX designer and a back-end developer 
 
-- 🌱 I’m currently learning **c#, .NET framework**
+- 🌱 I’m currently learning **c#, .NET framework and Java script**
 
 - 📫 How to reach me **lamaabothaher15@gmail.com**
 
